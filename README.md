@@ -1,4 +1,6 @@
 # UNA
 Repositório para entrega de exercícios 
 <br>
-[Análise de dados](https://github.com/matheusmvl/UNA/tree/main/analise-de-dados)
+Matérias:
+
+1. [Análise de dados](https://github.com/matheusmvl/UNA/tree/main/analise-de-dados)
